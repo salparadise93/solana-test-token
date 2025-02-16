@@ -1,0 +1,13 @@
+{
+  "name": "Why Are You Gay?",
+  "symbol": "WAYG",
+  "description": "...",
+  "image": "https://raw.githubusercontent.com/salparadise93/solana-test-token/refs/heads/main/image.jpg",
+  "uri": "https://raw.githubusercontent.com/salparadise93/solana-test-token/refs/heads/main/metadata.json",
+  "creators": [
+    {
+      "address": "ByXSSjCBf1LGoVUK7WPT5h1ufZkazE5PUzAzYZEd7CfK", 
+      "share": 100
+    }
+  ]
+}
